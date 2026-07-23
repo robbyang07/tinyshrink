@@ -1,0 +1,1 @@
+export default function TermsPage() { return <section className="container page legal"><h1>服务条款</h1><h2>服务说明</h2><p>TinyShrink 是一项提供浏览器端图片压缩功能的软件服务。您应自行确认压缩结果是否适合您的使用场景，并保留原始文件备份。</p><h2>责任限制</h2><p>本服务按“现状”提供。在法律允许的最大范围内，我们不对因使用或无法使用本服务造成的间接损失、数据损失或业务损失负责。</p><h2>禁止滥用</h2><p>您不得使用本服务进行违法活动、干扰网站正常运行，或试图绕过服务的技术限制。</p></section>; }
